@@ -1,1 +1,2 @@
-# learning_rust
+# Learning Rust
+My first learning session for rust...
