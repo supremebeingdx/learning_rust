@@ -3,4 +3,5 @@ name = "hello_cargo"
 version = "0.1.0"
 authors = ["Jackson"]
 
-[Dependencies]
+[dependencies]
+rand = "0.7"
